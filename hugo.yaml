@@ -136,7 +136,7 @@ params:
     enable: true
     intro: "Walls looking plain?"
     title: "Company Name"
-    subtitle: "Spiffy Tagline"
+    subtitle: "Taking the 'pain' out of 'painting'."
     content: "Since 2017 we've been paiting and painting and painting and more painting. We love painting. Remember that time when you tried to paint your house yourself? Yeah, didn't go so well did it. You got one wall down and it dripped all over your brand new floor so you had to spend the next three hours scrpaing paint droplets up. That's cuz you didn't prep properly. Don't realize your in over your head after you've spent $500 on supplies. Just call us. Hire Company Name today. <br><br> It's worth mentioning this is a demo site. And I would change the contact us link to work and link to a page that auto-opens an email request so that you get an email. I'd also list your phone number somewhere just below here. Also the social media icons to the right of contact us I'd remove github, maybe add facebook and instagram if ya'll use instagram. I also wouldn't insult your potential customers. <br> <br> <h2> Contact Us Today! 505-867-5309 </h2>"
     image: /images/painter-painting.jpg
     bottomImage:

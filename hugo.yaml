@@ -2,7 +2,7 @@ baseURL: "https://painters_demo.org"
 languageCode: "en-us"
 title: "Painters Demo"
 theme: hugo-profile
-#publishDir: docs (suspected breaks deployment on github)
+publishDir: docs
 
 outputs:
   home:

@@ -1,6 +1,6 @@
 baseURL: "https://painters_demo.org"
 languageCode: "en-us"
-title: "Painters Demo"
+title: "Revival Painting"
 theme: hugo-profile
 publishDir: docs
 
@@ -60,8 +60,8 @@ Menus:
     #   weight: 2
 
 params:
-  title: "Painters Demo"
-  description: No, seriously, we love painting.
+  title: "Hire Revival Painting Today"
+  description: "Breathe new life into your home."
   # staticPath: ""  # The path to serve the static files from
   favicon: "/fav.png"
 
@@ -114,9 +114,9 @@ params:
   # If you want to customize the menu, you can change it here
   navbar:
     align: ms-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
-    brandLogo: "/paintbrush.jpg" # Lovgo for the brand | default is the favicon variable
+    brandLogo: "/logo.png" # Lovgo for the brand | default is the favicon variable
     # showBrandLogo: false # Show brand logo in nav bar | default is true
-    brandName: "Painters Demo" # Brand name for the brand | default is the title variable
+    brandName: "Hire Revival Painting Today!" # Brand name for the brand | default is the title variable
     disableSearch: true
     # searchPlaceholder: "Search"
     stickyNavBar:
@@ -134,18 +134,18 @@ params:
   # Hero
   hero:
     enable: true
-    intro: "Walls looking plain?"
-    title: "Company Name"
-    subtitle: "Taking the 'pain' out of 'painting'."
-    content: "Since 2017 we've been paiting and painting and painting and more painting. We love painting. Remember that time when you tried to paint your house yourself? Yeah, didn't go so well did it. You got one wall down and it dripped all over your brand new floor so you had to spend the next three hours scrpaing paint droplets up. That's cuz you didn't prep properly. Don't realize your in over your head after you've spent $500 on supplies. Just call us. Hire Company Name today. <br><br> It's worth mentioning this is a demo site. And I would change the contact us link to work and link to a page that auto-opens an email request so that you get an email. I'd also list your phone number somewhere just below here. Also the social media icons to the right of contact us I'd remove github, maybe add facebook and instagram if ya'll use instagram. I also wouldn't insult your potential customers. <br> <br> <h2> Contact Us Today! 505-867-5309 </h2>"
-    image: /images/painter-painting.jpg
+    intro: "Breathe new life into your home."
+    title: "Revival Painting"
+    subtitle: "505-867-5309"
+    content: "<h3> Call Us Today!</h3>"
+    image: /logo.png
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
     button:
       enable: true
-      name: "Contact us"
-      url: "#"
+      name: "Email us"
+      url: "mailto:gurusabarisha@gmail.com"
       download: true
       newPage: false
     socialLinks:
@@ -158,23 +158,23 @@ params:
         - icon: /fav.png
           url: "https://example.com"
 
-  # About
+  # AboutC Us To
   about:
     enable: true
     title: "About Us"
-    image: "/images/me.png"
+    image: "/guys-without-logo.jpg"
     content: |-
-      Since we we're wee lads we'd always been painting. Fences, houses, outsides of houses. Even the top of the Sistine Chapel. Yeah. Michelangelo ain't got shit on us.
+      Fernando and Pedro are an iconic painting duo! Two craftsmen whose teamwork feels effortless and whose results speak for themselves. They’re known for turning even the toughest jobs into clean, professional finishes, all while bringing a level of care and pride that sets them apart. When they show up, you know the work will be done right, done fast, and done with a standard that feels almost legendary.
     skills:
       enable: true
-      title: "Here are a few painting I've been working with recently:"
+      title: ""
       items:
-        - "Cornering Like A Boss"
-        - "Insides of houses"
-        - "Outside of houses"
-        - "Other Places of Houses"
-        - "Celings"
-        - "Whatever"
+        - "Interior Painting"
+        - "Exterior Painting"
+        - "Surface Prep & Repairs"
+        - "Staining & Finishing"
+        - "Color Consulting & Matching"
+        - "Specialty Coatings"
 
   # Experience
   #experience:
@@ -195,7 +195,7 @@ params:
           #         url: https://react.dev/
           #         tooltip: Example tooltip content
           #       - icon: fab fa-x-twitter
-          #         url: https://example.com
+          #         url: https://exC Us Toample.com
           #         # tooltip: Example tooltip content
           #     customIcons:
           #       - icon: /fav.png
@@ -326,50 +326,49 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: Previous Paint Job
-        content: Satisfied customer testimonial.
-        image: /images/projects/profile.png
+      - title: Exterior Painting
+        content: 
+        image: /images/projects/exterior_example.jpg
         # featured:
         #   name: Demo
         #   link: https://hugo-profile.netlify.app
         badges:
-          - "Painting"
+          - "Exterior Painting"
           - "Customer Satisfaction"
-          - "Idk, I'll come up with something tho"
-        links:
-          - icon: fa fa-envelope
-            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/hugo-profile
-          - icon: fab fa-twitter
-            url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+#        links:
+#          - icon: fa fa-envelope
+#            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+#          - icon: fab fa-github
+#            url: https://github.com/gurusabarish/hugo-profile
+#          - icon: fab fa-twitter
+#            url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
 
-      - title: Second previous job.
-        content: More customer praise. 
-        image: /images/projects/converter.jpg
+      - title: Drywall Repair & Finishing
+        content: 
+        image: /images/projects/interior_repair.jpg
         # featured:
         #   name: Demo
         #   link: https://django-converter.herokuapp.com
         badges:
-          - "Django"
-          - "Bootstrap"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/converter
+          - "Drywall patching"
+          - "Painting"
+#        links:
+#          - icon: fab fa-github
+#            url: https://github.com/gurusabarish/converter
 
-      - title: EVEN MORE JOBS.
-        content: EVEN MORE POSITIVE AFFERMATIONS!
-        image: /images/projects/profile2.jpg
+      - title: Any job, big or small!
+        content: Call us today!
+        image: /images/projects/Fernando_tall.jpg
         # featured:
         #   name: Demo V2
         #   link: https://hugo-profile-2.netlify.app
         badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/HugoProfileV2
+          - "Reliable"
+          - "Skilled"
+          - "Detail-driven"
+#        links:
+#          - icon: fab fa-github
+#            url: https://github.com/gurusabarish/HugoProfileV2
 
   #Contact
   contact:

@@ -136,7 +136,7 @@ params:
     enable: true
     intro: "Breathe new life into your home."
     title: "Revival Painting"
-    subtitle: "505-867-5309"
+    subtitle: "505-918-2028 or 505-715-9695"
     content: "<h3> Call Us Today!</h3>"
     image: /logo.png
     bottomImage:
@@ -145,7 +145,7 @@ params:
     button:
       enable: true
       name: "Email us"
-      url: "mailto:gurusabarisha@gmail.com"
+      url: "mailto:Revival@revivalpainters.com"
       download: true
       newPage: false
     socialLinks:

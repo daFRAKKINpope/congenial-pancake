@@ -2,10 +2,13 @@
 title: "Previous Jobs"
 date: 2022-06-25T18:35:46+05:30
 draft: false
-description: "Pevious Jobs and Fun"
+description: "When you love what you do, you never work a day in your life."
 layout: "gallery"
 galleryImages:
  - src: /logo.png
+ - src: /gallery/painting_ladder.jpg
+ - src: /gallery/thedoor.jpg
+ - src: /gallery/13.jpg
  - src: /gallery/1.jpg
  - src: /gallery/2.jpg
  - src: /gallery/3.jpg
@@ -18,7 +21,7 @@ galleryImages:
  - src: /gallery/10.jpg
  - src: /gallery/11.jpg
  - src: /gallery/12.jpg 
- - src: /gallery/13.jpg
+ - src: /gallery/painting_ladder2.jpg
  - src: /gallery/guys-without-logo.jpg
 
 viewer : true

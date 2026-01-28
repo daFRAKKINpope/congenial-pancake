@@ -1,4 +1,4 @@
-baseURL: "https://painters_demo.org"
+baseURL: "https://revivalpainting-dfw.com"
 languageCode: "en-us"
 title: "Revival Painting"
 theme: hugo-profile
@@ -136,8 +136,8 @@ params:
     enable: true
     intro: "Breathe new life into your home."
     title: "Revival Painting"
-    subtitle: "505-918-2028 or 505-715-9695"
-    content: "<h3> Call Us Today!</h3>"
+    subtitle: "945-545-0948"
+    content: "<h3>Free estimates available!</h3>"
     image: /logo.png
     bottomImage:
       enable: true
@@ -164,7 +164,9 @@ params:
     title: "About Us"
     image: "/guys-without-logo.jpg"
     content: |-
-      Fernando and Pedro are an iconic painting duo! Two craftsmen whose teamwork feels effortless and whose results speak for themselves. They’re known for turning even the toughest jobs into clean, professional finishes, all while bringing a level of care and pride that sets them apart. When they show up, you know the work will be done right, done fast, and done with a standard that feels almost legendary.
+      Revival Painting brings new life to homes and businesses through quality craftsmanship rooted in Christian values. Serving Fort Worth, Arlington, and surrounding areas, we specialize in interior and exterior painting, cabinet refinishing, drywall repair, and full property transformations.<br><br>
+
+      Guided by principles of honesty, integrity, and serving others, we approach every project with care and excellence—helping homeowners “revive” the beauty, comfort, and spirit of their space. Whether refreshing a single room or restoring an entire home, our team is committed to work that uplifts, renews, and reflects the heart of our faith. Call today for a free quote!
     skills:
       enable: true
       title: ""
@@ -328,7 +330,7 @@ params:
     items:
       - title: Exterior Painting
         content: 
-        image: /images/projects/exterior_example.jpg
+        image: /images/projects/combo-paint.jpg
         # featured:
         #   name: Demo
         #   link: https://hugo-profile.netlify.app
@@ -345,7 +347,7 @@ params:
 
       - title: Drywall Repair & Finishing
         content: 
-        image: /images/projects/interior_repair.jpg
+        image: /images/projects/combo-drywall.jpg
         # featured:
         #   name: Demo
         #   link: https://django-converter.herokuapp.com
@@ -372,7 +374,7 @@ params:
 
   #Contact
   contact:
-    enable: true
+    enable: false
     # title: "Custom Name"
     content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
     btnName: Mail me

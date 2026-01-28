@@ -164,9 +164,7 @@ params:
     title: "About Us"
     image: "/guys-without-logo.jpg"
     content: |-
-      Revival Painting brings new life to homes and businesses through quality craftsmanship rooted in Christian values. Serving Fort Worth, Arlington, and surrounding areas, we specialize in interior and exterior painting, cabinet refinishing, drywall repair, and full property transformations.<br><br>
-
-      Guided by principles of honesty, integrity, and serving others, we approach every project with care and excellence—helping homeowners “revive” the beauty, comfort, and spirit of their space. Whether refreshing a single room or restoring an entire home, our team is committed to work that uplifts, renews, and reflects the heart of our faith. Call today for a free quote!
+      Revival Painting brings new life to homes and businesses through quality craftsmanship rooted in Christian values. Serving Fort Worth, Arlington, and surrounding areas, we specialize in interior and exterior painting, cabinet refinishing, drywall repair, and full property transformations.<br><br>Guided by principles of honesty, integrity, and serving others, we approach every project with care and excellence—helping homeowners “revive” the beauty, comfort, and spirit of their space. Whether refreshing a single room or restoring an entire home, our team is committed to work that uplifts, renews, and reflects the heart of our faith. Call today for a free quote!
     skills:
       enable: true
       title: ""

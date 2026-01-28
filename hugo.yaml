@@ -148,15 +148,15 @@ params:
       url: "mailto:Revival@revivalpainters.com"
       download: true
       newPage: false
-    socialLinks:
-      fontAwesomeIcons:
-        - icon: fab fa-github
-          url: https://example.com
-        - icon: fab fa-x-twitter
-          url: https://example.com
-      customIcons:
-        - icon: /fav.png
-          url: "https://example.com"
+#    socialLinks:
+#      fontAwesomeIcons:
+#        - icon: fab fa-github
+#          url: https://example.com
+#        - icon: fab fa-x-twitter
+#          url: https://example.com
+#      customIcons:
+#        - icon: /fav.png
+#          url: "https://example.com"
 
   # AboutC Us To
   about:
